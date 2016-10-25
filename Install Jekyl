@@ -1,0 +1,10 @@
+
+# IMPORTANT: Replace <username> with your GitHub username.
+
+# Install Jekyll using gem
+gem install jekyll bundler
+
+# Create a new Jekyll website
+jekyll new <username>.github.io
+cd <username>.github.io
+bundle install
